@@ -23,12 +23,12 @@ I'm a **Software Developer** and **Technical Enthusiast** from Indonesia, curren
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=NazriGenfill&show_icons=true&theme=tokyonight&hide_border=true" alt="Naz Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazriGenfill&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=NazriGenfil&show_icons=true&theme=tokyonight&hide_border=true" alt="Naz Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazriGenfil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NazriGenfill&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NazriGenfil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
