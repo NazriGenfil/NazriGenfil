@@ -1,4 +1,4 @@
-# Hi there, I'm Naz! 👋
+# Hi there, I'm Nazri! 👋
 
 I'm a **Software Developer** and **Technical Enthusiast** from Indonesia, currently studying at Telkom University. I specialize in building robust scripts for game servers and exploring the world of AI and Infrastructure.
 
